@@ -1,4 +1,7 @@
-# 💰 Estratégia de Monetização — Algarve Events
+# 💰 Estratégia de Monetização
+
+## Algarve Events
+Algarve Events é uma plataforma que centraliza a descoberta de eventos na região do Algarve, permitindo planear deslocações, encontrar alojamento e enviar feedback em tempo real.
 
 ## 🎯 Objetivo
 Garantir sustentabilidade financeira da plataforma **Algarve Events**, equilibrando impacto social, utilidade pública e rentabilidade privada.  
